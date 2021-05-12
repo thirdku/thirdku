@@ -14,7 +14,7 @@
     "react-dragula": "^1.1.17",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1",
-    "trim": "0.0.1"
+    "trim": "0.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
